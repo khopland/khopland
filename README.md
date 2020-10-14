@@ -14,7 +14,7 @@ I'm **97krihop**, a CS student from **Norway** <img src="https://www.flaticon.co
                               |___/                    |_|    
 ```
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47p9ti2pxjdhv5yol5g21vcjrfwfnjclddsriibzpq&rid=giphy.gif" alt="cat" width="20%" height="20%">
+<img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47p9ti2pxjdhv5yol5g21vcjrfwfnjclddsriibzpq&rid=giphy.gif" alt="cat" width="20%" height="20%">
 
 
 ![](https://komarev.com/ghpvc/?username=97krihop&color=gray)
