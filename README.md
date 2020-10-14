@@ -1,5 +1,9 @@
 <img align="center" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%">
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
+<br>
+
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47p9ti2pxjdhv5yol5g21vcjrfwfnjclddsriibzpq&rid=giphy.gif" alt="cat" width="20%" height="20%">
+
 <a href="https://github.com/97krihop/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97krihop&layout=compact&theme=tokyonight" /></a>
   </br>
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
@@ -8,5 +12,3 @@
 
 ![](https://komarev.com/ghpvc/?username=97krihop&color=gray)
 ![](https://visitor-badge.glitch.me/badge?page_id=97krihop.97krihop)
-
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47p9ti2pxjdhv5yol5g21vcjrfwfnjclddsriibzpq&rid=giphy.gif" alt="cat" width="30%" height="30%">
