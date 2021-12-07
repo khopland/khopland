@@ -20,7 +20,7 @@ const Kristoffer = {
             ".NET": ["ASP.NET Core", "VSIX"],
             "Kotlin/Java": ["Spring Boot", "JEE"],
             "Js/Ts": ["Node", "Express"],
-            Go: ["Fiber"]
+            "Go": ["Fiber"]
         },
         frontEnd: ["React", "Svelte", "Vue"],
         devOps: ["Azure", "Docker🐳", "Kubernetes", "azure pipelines", "Github Actions"],
