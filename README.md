@@ -23,8 +23,8 @@ const Kristoffer = {
             "Go": ["Fiber"]
         },
         frontEnd: ["React", "Svelte", "Vue"],
-        devOps: ["Azure", "Docker🐳", "Kubernetes", "azure pipelines", "Github Actions"],
-        databases: ["SQL server", "Postgresql", "Redis", "MongoDB", "CosmosDB", "MySql"],
+        devOps: ["Azure", "Docker🐳", "Kubernetes", "AZ pipelines", "GH Actions"],
+        databases: ["SQL server", "Postgresql", "Redis", "MongoDB", "CosmosDB"],
         certifications: ["az-900", "az-204"]
     }
 }
