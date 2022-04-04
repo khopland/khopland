@@ -17,3 +17,4 @@ jobs:
           API_BASE_URL: https://wakapi.dev/api
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: false
+          TIME_RANGE: last_30_days
