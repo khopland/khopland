@@ -21,7 +21,7 @@ const Kristoffer = {
     technologies: {
         backEnd: {
             ".NET": ["ASP.NET Core", "VSIX"],
-            "Kotlin/Java": ["Spring Boot", "quarkus", "JEE"],
+            "Kotlin/Java": ["Spring Boot", "Quarkus", "JEE"],
             "Js/Ts": ["Node", "Express"],
             "Go": ["Fiber"]
         },
