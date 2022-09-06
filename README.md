@@ -21,11 +21,11 @@ const Kristoffer = {
     technologies: {
         backEnd: {
             ".NET": ["ASP.NET Core", "VSIX"],
-            "Kotlin/Java": ["Spring Boot", "JEE"],
+            "Kotlin/Java": ["Spring Boot", "quarkus", "JEE"],
             "Js/Ts": ["Node", "Express"],
             "Go": ["Fiber"]
         },
-        frontEnd: ["React", "Svelte", "Vue"],
+        frontEnd: ["React/Next", "Svelte", "Vue"],
         devOps: ["Azure", "Docker🐳", "Kubernetes", "AZ pipelines", "GH Actions"],
         databases: ["SQL server", "Postgresql", "Redis", "MongoDB", "CosmosDB"],
         certifications: ["az-900", "az-204"]
