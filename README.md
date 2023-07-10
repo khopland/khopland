@@ -34,9 +34,9 @@ const Kristoffer = {
 ```
 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BM0B0T&theme=dark&background=000000)](https://git.io/streak-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BM0B0T&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BM0B0T&show_icons=true&theme=monokai)](https://github.com/Nishant1500?tab=overview)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khopland&theme=dark&background=000000)](https://git.io/streak-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khopland&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khopland&show_icons=true&theme=monokai)](https://github.com/Nishant1500?tab=overview)
 
 
 
