@@ -5,7 +5,7 @@
 </div>
 
 [![Linkedin: Kristoffer Larsen Hopland](https://img.shields.io/badge/-kristofferLarsenHopland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/)](https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/)
-[![GitHub BM0B0T](https://img.shields.io/github/followers/BM0B0T?label=follow&style=social)](https://github.com/BM0B0T)
+[![GitHub BM0B0T](https://img.shields.io/github/followers/khopland?label=follow&style=social)](https://github.com/khopland)
 <img src="https://komarev.com/ghpvc/?username=BM0B0T&style=flat-square&color=blue" alt=""/>
 ----
 
