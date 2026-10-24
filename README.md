@@ -1,44 +1,42 @@
-<h2> Hi, I'm Kristoffer Larsen Hopland! <img src="https://media.giphy.com/media/lKQlwPamON5NS/giphy.gif" width="50"></h2>
-<div id="badges">
-    <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="160">
-    <img  align='right' src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="160">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Kristoffer Larsen Hopland — Java and Kotlin developer. Backend systems, useful tools, and small experiments." src="./assets/header-light.svg" width="960" height="360">
+</picture>
 
-[![Linkedin: Kristoffer Larsen Hopland](https://img.shields.io/badge/-kristofferLarsenHopland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/)](https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/)
-[![GitHub BM0B0T](https://img.shields.io/github/followers/khopland?label=follow&style=social)](https://github.com/khopland)
-<img src="https://komarev.com/ghpvc/?username=BM0B0T&style=flat-square&color=blue" alt=""/>
-----
+# Backend developer. Tool builder.
 
-<br>
+I'm **Kristoffer Larsen Hopland**, a **Java and Kotlin developer**. I build backend services, JVM libraries, and tools that make development less fiddly—from dependency checks in IntelliJ to clearer XML validation errors.
 
-```javascript
-const Kristoffer = {
-    pronouns: "he" | "him",
-    code: ["C#", "Kotlin", "Java", "Go", "Typescript", "Javascript", "Python"],
-    architecture: ["microservices", "event-driven", "DDD"],
-    technologies: {
-        backEnd: {
-            ".NET": ["ASP.NET Core", "VSIX"],
-            "Kotlin/Java": ["Spring Boot", "Quarkus", "JEE"],
-            "Js/Ts": ["Node", "Express"],
-            "Go": ["Fiber"]
-        },
-        frontEnd: ["React/Next", "Svelte", "Vue"],
-        devOps: ["Azure", "Docker🐳", "Kubernetes", "AZ pipelines", "GH Actions"],
-        databases: ["SQL server", "Postgresql", "Redis", "MongoDB", "CosmosDB"],
-        certifications: ["az-900", "az-204"]
-    }
-}
-```
+[LinkedIn ↗](https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/) · [Explore my repositories ↗](https://github.com/khopland?tab=repositories)
 
+## Selected projects
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khopland&theme=dark&background=000000)](https://git.io/streak-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khopland&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khopland&show_icons=true&theme=monokai)](https://github.com/Nishant1500?tab=overview)
+A selection of my libraries, plugins, and tools:
 
+- **[Version Checker](https://github.com/khopland/idea-version-checker)** · Kotlin — Find and review dependency updates inside IntelliJ IDEA, across Maven, Gradle, npm, pnpm, Yarn, and Bun.
+- **[Better XSD Validation](https://github.com/khopland/xsd-validator)** · Java — Turn XML validation failures into structured reports with useful paths and expected elements, while keeping raw XML values out of diagnostics.
+- **[SSE Update](https://github.com/khopland/spring-boot-sse-update-starter)** · Java / Spring Boot — Send live updates across application instances, with local, JMS, and JDBC transports, plus a working sample application.
+- **[IDE Layout Profiles](https://github.com/khopland/ide-layout-profiles)** · Kotlin — Save and switch IntelliJ workspace layouts, including tool windows, editor tabs, and toolbar settings.
+- **[Dependency Snapshot](https://github.com/khopland/dependency-snapshot)** · Java / Maven — Track changes in resolved dependencies, including transitives, and produce text and JSON reports between builds.
+- **[HTML Plan Host](https://github.com/khopland/html-plan-hosting)** · TypeScript / Cloudflare Workers — Turn an HTML file into a temporary shareable page, with immutable revisions and version history.
 
+## The toolkit
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><br>
+| Where | What I work with |
+| :--- | :--- |
+| **On the JVM** | Kotlin · Java · Spring Boot · Quarkus |
+| **Designing services** | Microservices · event-driven architecture · DDD |
+| **Getting it running** | Docker · Kubernetes · Azure · GitHub Actions |
+| **Other experiments** | Rust · TypeScript · Cloudflare Workers |
+
+Off the main path: [Emberkai themes for IntelliJ](https://github.com/khopland/emberkai-intellij) and the occasional [Advent of Code puzzle](https://github.com/khopland/advent-of-code).
+
+## Recently at the keyboard
+
+<details>
+<summary>The last 30 days · coding activity · updated weekly</summary>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -51,4 +49,8 @@ XML                                     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+</details>
 
+---
+
+Always happy to compare notes on JVM development, backend design, or IDE tooling. **[Say hello on LinkedIn →](https://www.linkedin.com/in/kristoffer-larsen-hopland-1391a814a/)**
